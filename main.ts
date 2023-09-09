@@ -1,1 +1,6 @@
-// This is a comment
+
+class Recipe {
+    name: string;
+    instruction: string;
+
+}
